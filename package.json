@@ -1,0 +1,23 @@
+{
+  "name": "my-repo",
+  "dependencies": {
+    "express": "*"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node ./main.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NMRobinson92/Hello-World.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NMRobinson92/Hello-World/issues"
+  },
+  "homepage": "https://github.com/NMRobinson92/Hello-World#readme"
+}
